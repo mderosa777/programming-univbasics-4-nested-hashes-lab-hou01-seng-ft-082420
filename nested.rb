@@ -38,7 +38,7 @@ def alan_kay_is_known_for
     }
 programmer_hash[:alan_kay][:known_for]
 end
-programmer_hash
+
 
 def dennis_ritchies_language
 	programmer_hash = 
@@ -107,7 +107,7 @@ def changing_alan
       }
     }
 programmer_hash[:alan_kay][:known_for]="GUI"
-puts programmer_hash [:alan_kay]
+
 end
 
 def adding_to_dennis
